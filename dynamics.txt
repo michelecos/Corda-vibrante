@@ -1,0 +1,39 @@
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+
+Prodotto internazionale.
+
+Dynamics ax 4.0
+
+Gestione della produzione. Shopflow controller interfaccia verso i dispositivi di campo (registratori di cassa PLC).
+
+Gestione dei progetti diversi livelli dai grandi impianti alla componentistica
+
+Risorse umane
+
+Configuratore prodotto. Self Service. Può essere esposto ai clienti e partner. SI possono creare articoli speciali con sistemi di regole.
+
+Il framework base può essere utilizzato e esteso dai business partner per le verticalizzazioni. Esiste un rapporto con alcuni top ISV per lo sviluppo di verticali fashion (industry builder initiative).
+
+Top ISV "Txt solutions", "Blue fox".
+
+------- tech
+
+Una suite che si basa su prodotti Microsoft, sviluppato a tre livelli. Integrato con Active Directory. Lato internet integrato con Sharepoint portal.
+
+Si possono indirizzare informazioni sia lato client che lato web.
+
+Per la connettività verso Office o terze parti esiste un framework Microsoft Dynamics AX Business Connector (COM connector e .NET connector). La novità di release 4 è il .net connector.
+
+Application integration framework. Si tratta di uno strumento per gestire scenari B2B o integrazione con altri sistemi. Usa API proprie. Basate su un motore Biztalk integrato nel prodotto.
+
+Un esempio di scenario è la gestione di documenti rivolti all'esterno.
+
+Si possono creare workflow aggiungendo Biztalk server 2006 laddove è richiesta una certa complessità.
+
+Axacta(?) object server è il core dell'applicativo.
+
+Per l'integrazione con Office Dynamics AX si usa Infopath o strumenti più specifici.
+
+Si può avere una mappa delle tabelle e delle relazioni in Visio.
